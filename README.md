@@ -22,6 +22,10 @@ This project implements a question-answering system using Streamlit, Cohere API,
    ```bash
    git clone <YOUR_GITHUB_REPOSITORY_URL>
    cd <YOUR_PROJECT_DIRECTORY>
-Build the Docker image by ruuning the command : $ docker build -t qa-bot-cohere .
-Run the following command to start the application: $ docker run -p 8501:8501 qa-bot-cohere
+2. Build the Docker image by ruuning the command :
+    ```bash
+    docker build -t qa-bot-cohere .
+3. Run the following command to start the application:
+   ```bash
+   docker run -p 8501:8501 qa-bot-cohere
 Open your browser and navigate to http://localhost:8501 to access the app.
