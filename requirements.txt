@@ -1,0 +1,8 @@
+langchain 
+pinecone-client 
+langchain-cohere 
+langchain-community
+streamlit
+python-dotenv 
+PyPDF2
+pypdf
